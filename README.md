@@ -1,16 +1,33 @@
-# WhatsApp-chat-analysis-final-adeeba
-This Project is a "WhatsApp Chat Analyzer" . It's basically a streamlit app to analyze all whatsapp chats. In this project, I've included analysis of all the group chats and one on one chats on daily basis, monthly basis, weekly timeline, Stastistics, Activity map, most busy users, most used emoji, most commonly used words including stop words. It also counts hinglish words.
+# Project- WhatsApp Chat Analyzer
+
+# Wondering about what is a whatsApp chat analyzer?
+
+It's basically a streamlit app to analyze all whatsapp chats.
+
+# AIM OF THE PROJECT:-
+To derive STATISTIC ANALYSIS  of the chats between two( or more) individuals. Eventually this project works best for group chats.
+
+In this project, I've included taken various different statistical analysis to come up with a conclusion. 
+
+# These  includes:-
+
+1) MONTHLY ANALYSIS
+2) WEEKLY TIMELINE
+3) ACTIVITY MAP
+4) MOST BUSY USER(S)
+5) MOST USED EMOJI(S)
+6) Most commonly used words including stop words. It also counts HINGLISH words.
 
  
 [Demo Link:] [https://whatsapp-chat-analyzer-adeeba.herokuapp.com/] 
 
 
-#WhatsApp Chat ANALYZER 
+# WhatsApp Chat ANALYZER 
 
 1) BETWEEN TWO INDIVIDUALS
 2) BETWEEN GROUP CHATS
 
-1)
+# First let's understand the STATISTICAL ANALYSIS Between two individuals.
 
 ![Screenshot (5088)](https://user-images.githubusercontent.com/80636537/192165949-f6dd55b7-1e73-46a7-a19a-d5ffe6d6a002.png)
 ![Screenshot (5089)](https://user-images.githubusercontent.com/80636537/192165951-62107a67-d4f6-42aa-9da4-0c8891a0fae4.png)
@@ -20,7 +37,7 @@ This Project is a "WhatsApp Chat Analyzer" . It's basically a streamlit app to a
 ![Screenshot (5093)](https://user-images.githubusercontent.com/80636537/192165958-d32350a3-5936-48c5-a952-56e81cf842a2.png)
 ![Screenshot (5094)](https://user-images.githubusercontent.com/80636537/192165960-fb981b1f-699e-41be-8ffd-f81cb2e25b09.png)
 
-
+2) Statistical Analysis between GROUP CHATS (5 people)
 
 ![Screenshot (5069)](https://user-images.githubusercontent.com/80636537/192029850-be3efb0a-06d0-4530-9c72-288ec283bf93.png)
 ![Screenshot (5070)](https://user-images.githubusercontent.com/80636537/192029859-4d9bf23e-fe8e-4b32-a238-76eadfe938df.png)
