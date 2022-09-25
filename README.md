@@ -68,14 +68,14 @@ DATASET USED:-This dataset contains nearly 2000 messages between two individuals
 * DAILY TIMELINE:-
 ![Screenshot (5071)](https://user-images.githubusercontent.com/80636537/192029860-fdb4bb87-6485-4be0-abd1-f3fec57bcdf1.png)
 
-* MOST BUSY DAY:-
+* MOST BUSY DAY AND MONTH:-
 ![Screenshot (5072)](https://user-images.githubusercontent.com/80636537/192029861-8c7aba9f-1383-46c0-b1ba-7f3ee314b52d.png)
 
-* MOST BUSY MONTH:-
-![Screenshot (5073)](https://user-images.githubusercontent.com/80636537/192029863-033acc76-61ec-4c66-8d48-f2e823f7b3de.png)
 
 *  WEEKLY ACTIVITY MAP- The one's with colourful shade are the days when users were most active and the one's in black shade signmifies least activeness.
+![Screenshot (5073)](https://user-images.githubusercontent.com/80636537/192029863-033acc76-61ec-4c66-8d48-f2e823f7b3de.png)
+
 ![Screenshot (5074)](https://user-images.githubusercontent.com/80636537/192029865-3caed655-7c70-44eb-987e-ea79980485b5.png)
 
-* 
+* MOST COMMON USED WORDS(INCLUDING STOP WORDS).
 ![Screenshot (5076)](https://user-images.githubusercontent.com/80636537/192029872-4424f9b7-0c1c-4556-a155-a0ac1928ce3b.png)
