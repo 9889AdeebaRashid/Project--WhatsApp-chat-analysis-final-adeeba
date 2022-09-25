@@ -1,11 +1,13 @@
 # Project- WhatsApp Chat Analyzer
 
-# Wondering about what is a whatsApp chat analyzer?
+# What is a whatsApp chat analyzer?
 
 It's basically a streamlit app to analyze all whatsapp chats.
 
 # AIM OF THE PROJECT:-
 To derive  "STATISTICAL  ANALYSIS"  of the chats between two( or more) individuals. Eventually this project can analyze GROUP CHATS AS WELL.
+
+[Demo Link:] [https://whatsapp-chat-analyzer-adeeba.herokuapp.com/] 
 
 In this project, I've taken various different statistical analysis like:-
 
@@ -23,7 +25,7 @@ In this project, I've taken various different statistical analysis like:-
 * Most commonly used words including stop words. It also counts HINGLISH words.
 
  
-[Demo Link:] [https://whatsapp-chat-analyzer-adeeba.herokuapp.com/] 
+
 
 
 # WhatsApp Chat ANALYZER 
@@ -82,4 +84,10 @@ DATASET USED:-This dataset contains nearly 2000 messages between two individuals
 
 # AND THIS IS NOT IT:-
  YOU CAN EVEN CHECK THE WHOLE STATISTICAL ANALYSIS IN GROUP CHAT ON INDIVIDUAL BASIS
+ 
+ ![Screenshot (5096)](https://user-images.githubusercontent.com/80636537/192167367-c51b6f91-751f-46f3-b991-94e7fe6e0a40.png)
+ 
+ 
+ In this Group Chat, a total of 5 members were having a conversation. The user can check this statistical analysis of each person by clicking omn the dropdown menu and there will be a list of all the people. Just click on that individual's name whose analysis you want to know. Then click on Show Analysis button and you're good to go.
+
  
