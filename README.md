@@ -10,10 +10,8 @@ To derive  "STATISTICAL  ANALYSIS"  of the chats between two( or more) individua
 [Demo Link:] [https://whatsapp-chat-analyzer-adeeba.herokuapp.com/] 
 
 In this project, I've taken various different statistical analysis like:-
-
-# These  includes:-
   
- * Top Stats (which includes COUNT OF- Total Messages, Total Words, Total Media, Total Link shared)
+ * Top Statistics portraying the COUNT OF- Total Messages, Total Words, Total Media, Total Link shared)
 
 * MONTHLY ANALYSIS
 * DAILY TIMELINE
@@ -23,12 +21,6 @@ In this project, I've taken various different statistical analysis like:-
 * MOST BUSY USER(S)
 * MOST USED EMOJI(S)
 * Most commonly used words including stop words. It also counts HINGLISH words.
-
- 
-
-
-
-# WhatsApp Chat ANALYZER 
 
 1) BETWEEN TWO INDIVIDUALS
 2) BETWEEN GROUP CHATS
@@ -85,8 +77,9 @@ DATASET USED:-This dataset contains nearly 2000 messages between two individuals
 # AND THIS IS NOT IT:-
  YOU CAN EVEN CHECK THE WHOLE STATISTICAL ANALYSIS IN GROUP CHAT ON INDIVIDUAL BASIS
  
- ![Screenshot (5096)](https://user-images.githubusercontent.com/80636537/192167367-c51b6f91-751f-46f3-b991-94e7fe6e0a40.png)
  
+ ![Screenshot (5096)](https://user-images.githubusercontent.com/80636537/192167681-ae260ad6-9500-40ec-853c-6527ca739936.png)
+
  
  In this Group Chat, a total of 5 members were having a conversation. The user can check this statistical analysis of each person by clicking omn the dropdown menu and there will be a list of all the people. Just click on that individual's name whose analysis you want to know. Then click on Show Analysis button and you're good to go.
 
