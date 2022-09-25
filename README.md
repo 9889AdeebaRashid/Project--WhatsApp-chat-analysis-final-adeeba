@@ -12,22 +12,16 @@ To derive  "STATISTICAL  ANALYSIS"  of the chats between two( or more) individua
 In this project, I've taken various different statistical analysis like:-
   
  * Top Statistics portraying the COUNT OF- Total Messages, Total Words, Total Media, Total Link shared)
-
 * MONTHLY ANALYSIS
 * DAILY TIMELINE
-* MOST BUSY DAY\
+* MOST BUSY DAY
 * MOST BUSY MONTH
 * WEEKLY ACTIVITY MAP
 * MOST BUSY USER(S)
 * MOST USED EMOJI(S)
 * Most commonly used words including stop words. It also counts HINGLISH words.
 
-1) BETWEEN TWO INDIVIDUALS
-2) BETWEEN GROUP CHATS
-
-# First let's understand the STATISTICAL ANALYSIS Between two individuals.
-
-DATASET USED:-This dataset contains nearly 2000 messages between two individuals named DEV and Adeeba.
+# First let's understand the STATISTICAL ANALYSIS Between two individuals.DATASET USED:-This dataset contains nearly 2000 messages between two individuals named DEV and Adeeba.
 
 ![Screenshot (5088)](https://user-images.githubusercontent.com/80636537/192165949-f6dd55b7-1e73-46a7-a19a-d5ffe6d6a002.png)
 
