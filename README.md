@@ -79,3 +79,7 @@ DATASET USED:-This dataset contains nearly 2000 messages between two individuals
 
 * MOST COMMON USED WORDS(INCLUDING STOP WORDS).
 ![Screenshot (5076)](https://user-images.githubusercontent.com/80636537/192029872-4424f9b7-0c1c-4556-a155-a0ac1928ce3b.png)
+
+# AND THIS IS NOT IT:-
+ YOU CAN EVEN CHECK THE WHOLE STATISTICAL ANALYSIS IN GROUP CHAT ON INDIVIDUAL BASIS
+ 
