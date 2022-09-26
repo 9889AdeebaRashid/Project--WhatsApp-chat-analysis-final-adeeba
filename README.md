@@ -2,10 +2,10 @@
 
 # What is a whatsApp chat analyzer?
 
-It's basically a streamlit app to analyze all whatsapp chats.
+It's basically a streamlit app to analyze all whatsapp chats. 
 
 # AIM OF THE PROJECT:-
-To derive  "STATISTICAL  ANALYSIS"  of the chats between two( or more) individuals. Eventually this project can analyze GROUP CHATS AS WELL.
+To derive  "STATISTICAL  ANALYSIS"  of the chats between two( or more) individuals. Eventually this project can analyze GROUP CHATS AS WELL. Language used- Python.
 
 [Demo Link:] [https://whatsapp-chat-analyzer-adeeba.herokuapp.com/] 
 
@@ -76,5 +76,7 @@ In this project, I've taken various different statistical analysis like:-
 
  
  In this Group Chat, a total of 5 members were having a conversation. The user can check this statistical analysis of each person by clicking on the dropdown menu and there will be a list of all the people. Just click on that individual's name whose analysis you want to know. Then click on Show Analysis button and you're good to go.
+
+
 
  
