@@ -38,7 +38,7 @@ In this project, I've taken various different statistical analysis like:-
 * WEEKLY ACTIVITY MAP- The one's with colourful shade are the days when users were most active and the one's in black shade signmifies least activeness.
 ![Screenshot (5092)](https://user-images.githubusercontent.com/80636537/192165954-6489e2a1-cf92-432a-9f50-8bdbcfc7888f.png)
 
-* MOST bust user  with their name and percemt.
+* MOST busy user  with their name and percentage.
 ![Screenshot (5093)](https://user-images.githubusercontent.com/80636537/192165958-d32350a3-5936-48c5-a952-56e81cf842a2.png)
 
 * MOST COMMON WORDS:- "yay" was most often used.
@@ -75,6 +75,6 @@ In this project, I've taken various different statistical analysis like:-
  ![Screenshot (5096)](https://user-images.githubusercontent.com/80636537/192167681-ae260ad6-9500-40ec-853c-6527ca739936.png)
 
  
- In this Group Chat, a total of 5 members were having a conversation. The user can check this statistical analysis of each person by clicking omn the dropdown menu and there will be a list of all the people. Just click on that individual's name whose analysis you want to know. Then click on Show Analysis button and you're good to go.
+ In this Group Chat, a total of 5 members were having a conversation. The user can check this statistical analysis of each person by clicking on the dropdown menu and there will be a list of all the people. Just click on that individual's name whose analysis you want to know. Then click on Show Analysis button and you're good to go.
 
  
