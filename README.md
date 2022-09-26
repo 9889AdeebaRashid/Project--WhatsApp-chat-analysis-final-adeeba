@@ -7,7 +7,7 @@ It's basically a streamlit app to analyze all whatsapp chats.
 # AIM OF THE PROJECT:-
 To derive  "STATISTICAL  ANALYSIS"  of the chats between two( or more) individuals. Eventually this project can analyze GROUP CHATS AS WELL. 
 * Language used- Python.
-* Technique used - DATA ANALYSIS AND NALP.
+* Technique used - DATA ANALYSIS AND NLP.
 
 [Demo Link:] [https://whatsapp-chat-analyzer-adeeba.herokuapp.com/] 
 
