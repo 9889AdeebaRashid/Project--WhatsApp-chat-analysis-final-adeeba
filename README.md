@@ -5,7 +5,9 @@
 It's basically a streamlit app to analyze all whatsapp chats. 
 
 # AIM OF THE PROJECT:-
-To derive  "STATISTICAL  ANALYSIS"  of the chats between two( or more) individuals. Eventually this project can analyze GROUP CHATS AS WELL. Language used- Python.
+To derive  "STATISTICAL  ANALYSIS"  of the chats between two( or more) individuals. Eventually this project can analyze GROUP CHATS AS WELL. 
+* Language used- Python.
+* Technique used - DATA ANALYSIS AND NALP.
 
 [Demo Link:] [https://whatsapp-chat-analyzer-adeeba.herokuapp.com/] 
 
@@ -19,7 +21,7 @@ In this project, I've taken various different statistical analysis like:-
 * WEEKLY ACTIVITY MAP
 * MOST BUSY USER(S)
 * MOST USED EMOJI(S)
-* Most commonly used words including stop words. It also counts HINGLISH words.
+* Most commonly used words including stop words (Stop words are the one's which are generally filtered out before processing natural language. It also counts HINGLISH words.
 
 # First let's understand the STATISTICAL ANALYSIS Between two individuals.DATASET USED:-This dataset contains nearly 2000 messages between two individuals named DEV and Adeeba.
 
